@@ -47,5 +47,4 @@ The dashboard uses a sales dataset containing information such as:
 ### 7. Project Outcome
 This project demonstrates how Power BI can be used to analyze sales data, visualize important business metrics, and identify patterns that support better sales and business decisions.
 
-###8.sales dashboard image 
-file:///C:/Users/Sampa/OneDrive/Pictures/Screenshots/Screenshot%202026-10-10%20062042.png
+
